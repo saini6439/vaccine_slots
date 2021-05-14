@@ -1,0 +1,17 @@
+{
+  "name": "cowin_alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "request": "^2.88.2",
+    "twilio": "^3.62.0"
+  }
+}
